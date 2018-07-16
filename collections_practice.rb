@@ -1,7 +1,7 @@
 def sort_array_asc(array)
   array.sort!
 end
- 
+
 def sort_array_desc(array)
  array.sort.reverse!
 end
@@ -55,5 +55,3 @@ def add_s(array)
     end
     return s_add
   end
-
-
